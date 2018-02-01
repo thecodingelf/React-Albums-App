@@ -2,15 +2,14 @@
 
 ## List of albums
 
-The application will help people suffering from chronic pain to form a community where they can share
-their experiences with pain by using the chat and livestream and help other people and keep track of their pain by using log and diary.
+Displays list of albums and directs the user to amazon where they can buy the album.
 
 ### With GIT
 
 You need to clone using the git command console or download zip file of this app.
 
 ```Command console
-$ git clone https://github.com/thecodingelf/ChronicHealth.git
+$ git clone https://github.com/thecodingelf/React-Albums-App.git
 ```
 
 #### With the React CLI:

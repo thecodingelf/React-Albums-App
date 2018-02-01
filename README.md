@@ -33,7 +33,3 @@ with usb to computer.
 ```Node.js Command console.
 $ react-native run-android
 ```
-
-##### APK:
-
-Apk of the application is included here. ```(If it doesn't work run in node.js command console $ react-native run-android)```
